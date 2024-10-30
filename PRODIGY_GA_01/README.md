@@ -7,6 +7,8 @@ In this task, the goal is to train a model to generate coherent and contextually
 - [How to Generate Text with GPT-2](https://huggingface.co/blog/how-to-generate)
 - [Colab Notebook for GPT-2 Fine-Tuning](https://colab.research.google.com/drive/15qBZx5y9rdaQSyWpsreMDnTiZ5IlN0zD?usp=sharing)
 
+<img src="task 1.png" >
+
 ### Key Learning Goals:
 “For Generative AI Interns, focus on learning the topics and understanding the theory in as much detail as possible. The output doesn’t matter if you don’t grasp the theory behind these complex topics.”
 
