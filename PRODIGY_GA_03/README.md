@@ -10,7 +10,7 @@ This project demonstrates a basic text generation algorithm using **Markov Chain
 - [Deliverables](#deliverables-)
 - [References](#references-)
 
----
+<img src="task 3.png" >
 
 ## Task Description 📝
 The objective of this task is to implement a text generation algorithm based on **Markov Chains**. A Markov Chain is a statistical model that predicts the probability of a character or word based on its preceding character or word. Using these probabilities, the model generates new text by sampling from learned patterns.
