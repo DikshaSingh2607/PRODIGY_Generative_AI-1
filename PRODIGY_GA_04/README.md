@@ -3,6 +3,8 @@
 ## Task Description 📝
 This project focuses on implementing an **image-to-image translation** model using a **conditional Generative Adversarial Network (cGAN)**, specifically the **pix2pix** architecture. The goal is to translate images from one domain to another (e.g., converting a sketch to a realistic image or transforming a daytime scene into a nighttime scene).
 
+<img src="task 4.png" >
+
 ## Objectives 🎯
 - **Develop a cGAN-based image-to-image translation model** using the pix2pix architecture. 🖼️
 - **Train the model** on a paired dataset of images, where each pair consists of a **source** and **target** image.
