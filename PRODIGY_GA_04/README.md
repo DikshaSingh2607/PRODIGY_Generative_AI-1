@@ -96,6 +96,8 @@ generator = build_generator()
 generator.summary()
 ```
 
+DataSet: https://www.kaggle.com/datasets/srrrrr/edges2shoes 
+
 ## References 📚
 - [Pix2Pix: Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
 - [Pix2Pix Implementation with PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
