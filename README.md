@@ -28,5 +28,8 @@ Key activities I am involved in include:
 - Participating in discussions on **Generative AI trends** and advancements. 🎙️
 - Collaborating with the Prodigy InfoTech team to apply Generative AI in real-world scenarios. 👥
 
+## References 📚
+- [Task List](https://www.canva.com/design/DAFpRxy47kU/w9nxlJ4_CSLwekIRa0ttbg/view?utm_content=DAFpRxy47kU&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+
 ## Conclusion
 I am grateful for this opportunity to deepen my skills in Generative AI and look forward to contributing to Prodigy InfoTech's projects. 🙏🚀
