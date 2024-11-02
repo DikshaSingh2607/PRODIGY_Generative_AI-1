@@ -3,6 +3,8 @@
 ## Overview
 In this task, I explored **Neural Style Transfer** (NST), a captivating technique in computer vision and deep learning. NST allows the artistic style of one image (such as a famous painting) to be applied to the content of another image, creating a stunning blend. By leveraging convolutional neural networks, this process transforms ordinary photos into extraordinary artworks.
 
+<img src="task 5.png" >
+
 ## Objective
 The main goal was to merge the style of a renowned painting with the content of a chosen photo, preserving the original image's structure while infusing it with artistic elements.
 
